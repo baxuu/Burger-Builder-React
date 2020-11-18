@@ -41,6 +41,3 @@ App will start on port ***3000***.  Run command:
 npm start
 ```
 
-## Author
-
- Artur Królczyk *baxuu*
